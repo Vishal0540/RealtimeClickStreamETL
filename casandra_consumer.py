@@ -113,8 +113,8 @@ if __name__ == "__main__":
 
                 try:
                     insert_to_cansandra(cassandra_session , clickstream_data)
-                except:
-                    pass
+                except Exception as e:
+                    print(f"Error Inserting {clickstream_data}")
 
         except KeyboardInterrupt:
 
