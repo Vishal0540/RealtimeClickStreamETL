@@ -1,0 +1,66 @@
+URL,country,unique_user_count,average_time_spent
+https://www.example.com/faq,Jersey,1,11
+https://www.example.com/faq,French Polynesia,1,13
+https://www.example.com/faq,Italy,1,17
+https://www.example.com/,Serbia,1,3
+https://www.example.com/contact,Austria,1,1
+https://www.example.com/,Liberia,1,15
+https://www.example.com/,Jersey,2,26
+https://www.example.com/contact,Burundi,1,12
+https://www.example.com/,Bahamas,1,11
+https://www.example.com/products,Austria,1,1
+https://www.example.com/faq,Burundi,1,7
+https://www.example.com/services,Yemen,1,21
+https://www.example.com/home,Northern Mariana Islands,1,12
+https://www.example.com/contact,Japan,1,21
+https://www.example.com/login,Puerto Rico,1,6
+https://www.example.com/services,Puerto Rico,1,42
+https://www.example.com/blog,Central African Republic,1,24
+https://www.example.com/home,Serbia,1,4
+https://www.example.com/blog,Cyprus,1,10
+https://www.example.com/blog,Reunion,1,11
+https://www.example.com/services,Austria,1,6
+https://www.example.com/services,Liechtenstein,1,18
+https://www.example.com/pricing,Taiwan,1,27
+https://www.example.com/products,Ireland,1,16
+https://www.example.com/about,Burundi,1,2
+https://www.example.com/,Japan,1,6
+https://www.example.com/home,Austria,1,10
+https://www.example.com/faq,Croatia,1,2
+https://www.example.com/services,Dominican Republic,1,9
+https://www.example.com/services,Taiwan,1,3
+https://www.example.com/services,Bosnia and Herzegovina,1,20
+https://www.example.com/home,Taiwan,1,2
+https://www.example.com/,Cameroon,1,7
+https://www.example.com/contact,Bahamas,1,3
+https://www.example.com/blog,Taiwan,1,10
+https://www.example.com/,Cyprus,1,7
+https://www.example.com/about,Iceland,1,1
+https://www.example.com/contact,Serbia,1,11
+https://www.example.com/home,Burundi,1,6
+https://www.example.com/login,Libyan Arab Jamahiriya,1,1
+https://www.example.com/pricing,Faroe Islands,1,7
+https://www.example.com/contact,Bosnia and Herzegovina,1,8
+https://www.example.com/home,Cameroon,1,30
+https://www.example.com/home,Liberia,1,14
+https://www.example.com/products,Estonia,1,2
+https://www.example.com/faq,Guinea,1,4
+https://www.example.com/about,Liberia,1,7
+https://www.example.com/about,Estonia,1,3
+https://www.example.com/about,San Marino,1,9.666666666666666
+https://www.example.com/pricing,Austria,1,16
+https://www.example.com/pricing,San Marino,1,3
+https://www.example.com/home,Mauritius,1,2
+https://www.example.com/pricing,Liberia,1,7
+https://www.example.com/contact,Iceland,1,24
+https://www.example.com/about,Northern Mariana Islands,1,4
+https://www.example.com/blog,Mauritius,1,3
+https://www.example.com/about,Norway,1,2
+https://www.example.com/pricing,Burundi,1,20
+https://www.example.com/,Dominican Republic,1,5
+https://www.example.com/about,Cyprus,1,3
+https://www.example.com/login,Iceland,1,26
+https://www.example.com/contact,Jersey,2,6
+https://www.example.com/products,Dominican Republic,1,3
+https://www.example.com/faq,Estonia,1,1
+https://www.example.com/about,Austria,1,9
