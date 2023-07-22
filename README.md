@@ -1,6 +1,6 @@
 # Clickstream ETL Pipeline with Kafk,Cassandra and Databricks(Spark)
 
-![](ClickstreamETL.jpeg)
+![](Clickstream_ETL.jpeg)
 
 
 
